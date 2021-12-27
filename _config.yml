@@ -28,7 +28,7 @@ twitter_username: BenWaldman7
 github_username:  bmwaldman0918
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
