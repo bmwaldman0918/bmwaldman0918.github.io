@@ -22,7 +22,7 @@ title: Ben Waldman
 email: bwaldman@uchicago.edu
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.bwaldman.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BenWaldman7
 github_username:  bmwaldman0918
 linkedin_username: bmwaldman0918
@@ -32,6 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
