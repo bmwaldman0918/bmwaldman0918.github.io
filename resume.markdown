@@ -4,6 +4,24 @@ title: Resume
 permalink: /resume/
 order: 2
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique dapibus lacus nec fermentum. In euismod erat hendrerit, blandit urna vitae, tempor augue. Quisque scelerisque diam massa, sit amet tincidunt lorem blandit aliquam. Maecenas et egestas nibh. Integer vel ante tellus. In pulvinar tellus non sem vehicula, ac porta nulla venenatis. Mauris in gravida odio. Cras rutrum sagittis lectus, eget euismod lorem dictum sed.
+<h2>Education</h2>
+<b>The University of Chicago</b>
+<br>
+<i>Bachelors of Arts, expected June 2025</i>
+<br>
+GPA: 3.6/4
+<br>
+Coursework: 
+<ul>
+	<li> <a href="https://people.cs.uchicago.edu/~timng/151/a21/"> Introduction to Computer Science I </a> </li>
+	<li> <a href="https://www.cs.umd.edu/class/fall2020/cmsc131-010X-030X/"> Object-Oriented Programming I</a>*</li>
+	<li> <a href="https://www.cs.umd.edu/class/spring2021/cmsc132-01XX/"> Object-Oriented Programming II</a>*</li>
+</ul>
+<i>*Taken at the University Maryland through high school dual enrollment program</i>
 
-Aliquam posuere semper mi, in ullamcorper purus fermentum in. In sodales cursus augue aliquam congue. Nulla posuere consectetur arcu, in volutpat dui porttitor efficitur. In hac habitasse platea dictumst. Aliquam cursus faucibus neque, eu lobortis est finibus vitae. Proin semper eros ac urna euismod dignissim. Proin vitae sagittis est, nec venenatis enim. In et blandit risus. Nunc gravida urna quis vestibulum ornare. Duis ornare urna eu ligula interdum, sed fringilla nunc commodo. Suspendisse eget turpis euismod, eleifend erat non, suscipit ante. Vivamus imperdiet a sapien et consequat. Donec a nisl eget nulla dignissim semper. Nulla facilisi. Ut ultrices velit et leo vehicula maximus.
+<h2>Experience</h2>
+
+<h2>Skills</h2>
+
+<h2>Awards</h2>
+	
