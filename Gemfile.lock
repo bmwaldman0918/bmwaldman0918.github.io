@@ -275,8 +275,10 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  gemoji
   github-pages
   jekyll-feed (~> 0.12)
+  jemoji
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
