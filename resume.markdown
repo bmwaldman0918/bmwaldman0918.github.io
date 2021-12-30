@@ -17,7 +17,7 @@ Selected Coursework:
 	<li> <a href="https://www.cs.umd.edu/class/fall2020/cmsc131-010X-030X/"> Object-Oriented Programming I</a>*</li>
 	<li> <a href="https://www.cs.umd.edu/class/spring2021/cmsc132-01XX/"> Object-Oriented Programming II</a>*</li>
 </ul>
-<i>*Taken at the University Maryland through high school dual enrollment program</i>
+<i>*Taken at the University of Maryland through high school dual enrollment program</i>
 
 <h2>Experience</h2>
 {% assign sorted_jobs = site.jobs | sort:"order" %}
