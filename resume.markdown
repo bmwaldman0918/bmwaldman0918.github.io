@@ -32,7 +32,7 @@ Selected Coursework:
 {% endfor %}
 <h2>Skills</h2>
 <p>&#9989; Java, Python, Racket, C, Eclipse, VSCode</p>
-<p>&#128076; HTML/CSS, SQL, Jekyll, Git, SVN, French, Adobe Photoshop/Illustrator</p>
+<p>&#128076; HTML/CSS, SQL, Jekyll, Git, SVN, IntelliJ/PyCharm/CLion, French, Adobe Photoshop/Illustrator</p>
 <p>&#129295; JavaScript, PHP</p>
 <h2>Awards</h2>
 <ul>
