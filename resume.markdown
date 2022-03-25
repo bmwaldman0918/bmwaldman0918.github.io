@@ -9,11 +9,12 @@ order: 2
 <br>
 <i>Bachelors of Arts, expected June 2025</i>
 <br>
-GPA: 3.6/4
+GPA: 3.73/4
 <br>
 Selected Coursework: 
 <ul>
 	<li> <a href="https://people.cs.uchicago.edu/~timng/151/a21/"> Introduction to Computer Science I </a> </li>
+	<li> <a href="http://collegecatalog.uchicago.edu/thecollege/computerscience/#courseinventory"> Honors Introduction to Computer Science II </a> </li>
 	<li> <a href="https://www.cs.umd.edu/class/fall2020/cmsc131-010X-030X/"> Object-Oriented Programming I</a>*</li>
 	<li> <a href="https://www.cs.umd.edu/class/spring2021/cmsc132-01XX/"> Object-Oriented Programming II</a>*</li>
 </ul>
