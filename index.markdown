@@ -6,7 +6,7 @@ layout: page
 title: About Me
 ---
 <h4>Who are you? </h4>
-I'm Ben. I study <a href="https://computerscience.uchicago.edu/">computer science&#128187;</a> and <a href="https://economics.uchicago.edu/content/ba-economics-specialization-data-science">Economics with a specialization in Data Science&#128520;</a> at the University of Chicago.
+I'm Ben. I study <a href="https://computerscience.uchicago.edu/">computer science&#128187;</a> and <a href="https://economics.uchicago.edu/content/ba-economics-specialization-data-science">economics with a specialization in data science&#128520;</a> at the University of Chicago.
 
 <h4>What are you interested in? </h4>
 I'm broadly interested in politics, economics and computer science. I'm especially interested in elections (particularly <a href="https://davesredistricting.org/">electoral districts</a>), behavioral economics and data structures. 
