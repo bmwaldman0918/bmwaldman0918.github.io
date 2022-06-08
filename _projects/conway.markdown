@@ -2,7 +2,7 @@
 layout: page
 title: Conway's Game of Life
 permalink: /projects/conway
-order: 2
+order: 3
 summary: Python program that simulates and displays Conway's game of life on a pixelated version of today's date.
 ---
 Python program that simulates and displays <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Conway's game of life</a> on a pixelated version of today's date.
