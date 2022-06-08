@@ -7,18 +7,19 @@ order: 2
 <h2>Education</h2>
 <b>The University of Chicago</b>
 <br>
-<i>Bachelors of Arts, expected June 2025</i>
+<i>B.S. in Computer Science and Economics, expected June 2025</i>
 <br>
-GPA: 3.73/4
+GPA: 3.71/4
 <br>
 Selected Coursework: 
 <ul>
-	<li> <a href="https://people.cs.uchicago.edu/~timng/151/a21/"> Introduction to Computer Science I </a> </li>
-	<li> <a href="http://collegecatalog.uchicago.edu/thecollege/computerscience/#courseinventory"> Honors Introduction to Computer Science II </a> </li>
-	<li> <a href="https://www.cs.umd.edu/class/fall2020/cmsc131-010X-030X/"> Object-Oriented Programming I</a>*</li>
-	<li> <a href="https://www.cs.umd.edu/class/spring2021/cmsc132-01XX/"> Object-Oriented Programming II</a>*</li>
+	<li> <a href="https://people.cs.uchicago.edu/~timng/151/a21/"> Introduction to Computer Science I </a> (A-)</li>
+	<li> <a href="http://collegecatalog.uchicago.edu/thecollege/computerscience/#courseinventory"> Honors Introduction to Computer Science II </a> (A)</li>
+	<li> <a href="https://sites.google.com/site/cs154uchicago/main/logisticsfaqs"> Introduction to Computer Systems </a> (A)</li>
+	<li> <a href="https://www.cs.umd.edu/class/fall2020/cmsc131-010X-030X/"> Object-Oriented Programming I</a>* (A+)</li>
+	<li> <a href="https://www.cs.umd.edu/class/spring2021/cmsc132-01XX/"> Object-Oriented Programming II</a>* (A)</li>
 </ul>
-<i>*Taken at the University of Maryland through high school dual enrollment program</i>
+<i>*Taken at the University of Maryland</i>
 
 <h2>Experience</h2>
 {% assign sorted_jobs = site.jobs | sort:"order" %}
@@ -32,9 +33,7 @@ Selected Coursework:
   </p>
 {% endfor %}
 <h2>Skills</h2>
-<p>&#9989; Java, Python, Racket, C, Eclipse, VSCode</p>
-<p>&#128076; HTML/CSS, SQL, Jekyll, Git, SVN, IntelliJ/PyCharm/CLion, French, Adobe Photoshop/Illustrator</p>
-<p>&#129295; JavaScript, PHP</p>
+<b>Proficient in:</b> Java, Python, C, Git, GitHub, SVN, HTML, CSS, Jekyll, VS Code, Eclipse, JetBrains IDEs
 <h2>Awards</h2>
 <ul>
 	<li><a href="https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=424">National Merit Scholar</a>, 2021</li>
