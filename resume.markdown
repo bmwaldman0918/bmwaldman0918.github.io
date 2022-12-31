@@ -16,7 +16,7 @@ Selected Coursework:
 	<li> <a href="https://people.cs.uchicago.edu/~timng/151/a21/"> Introduction to Computer Science I </a> (A-)</li>
 	<li> <a href="http://collegecatalog.uchicago.edu/thecollege/computerscience/#courseinventory"> Honors Introduction to Computer Science II </a> (A)</li>
 	<li> <a href="https://sites.google.com/site/cs154uchicago/main/logisticsfaqs"> Introduction to Computer Systems </a> (A)</li>
-	<li> <a href="http://cmsc-27100.cs.uchicago.edu/2018-winter/"> Discrete Math</a>(A-)</li>
+	<li> <a href="http://cmsc-27100.cs.uchicago.edu/2018-winter/"> Discrete Math</a> (A-)</li>
 	<li> <a href="https://www.cs.umd.edu/class/fall2020/cmsc131-010X-030X/"> Object-Oriented Programming I</a>* (A+)</li>
 	<li> <a href="https://www.cs.umd.edu/class/spring2021/cmsc132-01XX/"> Object-Oriented Programming II</a>* (A)</li>
 	
