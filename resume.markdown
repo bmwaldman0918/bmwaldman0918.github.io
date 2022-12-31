@@ -22,6 +22,7 @@ Selected Coursework:
 	
 </ul>
 <i>*Taken at the University of Maryland</i>
+
 <i>**There is no publicly available webpage for this course but it is based on these notes</i>
 
 <h2>Experience</h2>
