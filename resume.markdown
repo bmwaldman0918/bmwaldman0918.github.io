@@ -38,7 +38,7 @@ Selected Coursework:
   </p>
 {% endfor %}
 <h2>Skills</h2>
-<b>Proficient in:</b> Java, Python, C, Git, GitHub, SVN, HTML, CSS, Jekyll, VS Code, Eclipse, JetBrains IDEs
+<b>Proficient in:</b> Java, Python, C, Git, GitHub, SVN, HTML, CSS, Jekyll, Rust
 <h2>Awards</h2>
 <ul>
 	<li><a href="https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=424">National Merit Scholar</a>, 2021</li>
