@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CS Grading
+title: University of Chicago
 permalink: /resume/grading
 jobtitle: Grader
 time: Winter 2023
