@@ -9,22 +9,17 @@ order: 2
 <br>
 <i>B.S. in Computer Science, expected June 2025</i>
 <br>
-GPA: 3.7/4
+GPA: 3.8/4
 <br>
 Selected Coursework: 
 <ul>
-	<li> <a href="https://people.cs.uchicago.edu/~timng/151/a21/"> Introduction to Computer Science I </a> (A-)</li>
-	<li> <a href="http://collegecatalog.uchicago.edu/thecollege/computerscience/#courseinventory"> Honors Introduction to Computer Science II </a> (A)</li>
-	<li> <a href="https://sites.google.com/site/cs154uchicago/main/logisticsfaqs"> Introduction to Computer Systems </a> (A)</li>
-	<li> Discrete Math* (A-)</li>
-	<li> Honors Theory of Algorithms* (B)</li>
-	<li> <a href="https://www.cs.umd.edu/class/fall2020/cmsc131-010X-030X/"> Object-Oriented Programming I</a>** (A+)</li>
-	<li> <a href="https://www.cs.umd.edu/class/spring2021/cmsc132-01XX/"> Object-Oriented Programming II</a>** (A)</li>
-	
+	<li> Introduction to Cryptography (A) </li>
+	<li> Introduction to Formal Languages (A) </li>
+	<li> Type Theory (A) </li>
+	<li> Programming Languages (A-) </li>
+	<li> <a href="https://classes.cs.uchicago.edu/archive/2024/winter/23200-1/"> Introduction to Computer Seucity </a> (B+)</li>
+	<li> Introduction to Database Systems (B+)</li>
 </ul>
-<i>*There is no publicly available webpage for this course</i>
-
-<i>**Taken at the University of Maryland</i>
 
 <h2>Experience</h2>
 {% assign sorted_jobs = site.jobs | sort:"order" %}
