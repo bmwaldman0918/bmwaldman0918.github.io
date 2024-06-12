@@ -17,7 +17,7 @@ Selected Coursework:
 	<li> Introduction to Formal Languages (A) </li>
 	<li> Type Theory (A) </li>
 	<li> Programming Languages (A-) </li>
-	<li> <a href="https://classes.cs.uchicago.edu/archive/2024/winter/23200-1/"> Introduction to Computer Seucity </a> (B+)</li>
+	<li> <a href="https://classes.cs.uchicago.edu/archive/2024/winter/23200-1/"> Introduction to Computer Secucity </a> (B+)</li>
 	<li> Introduction to Database Systems (B+)</li>
 </ul>
 
